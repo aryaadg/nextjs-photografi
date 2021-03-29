@@ -1,7 +1,7 @@
 export default function IndexPage() {
 	return (
     <div>
-      <p>soososososo</p>
+      <p>soosososodsffdgdgtrrttso</p>
     </div>
 	);
 }
