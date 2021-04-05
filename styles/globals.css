@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.coverff {
+  background: rgba(34, 34, 34, 0.4);
+}
