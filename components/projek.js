@@ -9,7 +9,7 @@ export default function Projek2() {
                                 <img src="p1.jpg" alt=""></img>
                         </div>
                             <div className="uk-card-body">
-                                <h3 className="uk-card-title">Good Food, Good Life</h3>
+                                <h3 className="uk-card-title">Good Food n Life</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At magnam doloremque itaque eaque hic ducimus iure repellendus totam ipsam, velit obcaecati nemo eos esse! Facere recusandae vero quos nihil suscipit.</p>
                                 
                             </div>
